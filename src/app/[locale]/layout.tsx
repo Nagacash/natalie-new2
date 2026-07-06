@@ -14,6 +14,7 @@ import ScrollToTop from '@/app/components/ScrollToTop'
 import BackgroundAmbience from '@/app/components/BackgroundAmbience'
 import Aoscompo from '@/utils/aos'
 import { SITE_URL, socialShareImageMetadata } from '@/app/data/site'
+import { Analytics } from '@vercel/analytics/next'
 
 export function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }))
@@ -191,6 +192,7 @@ export default async function LocaleLayout({
           <ScrollToTop />
           <BackgroundAmbience />
         </NextIntlClientProvider>
+        <Analytics />
       </body>
     </html>
   )
