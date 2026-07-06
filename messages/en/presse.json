@@ -1,0 +1,51 @@
+{
+  "eyebrow": "Press & media",
+  "title": "Media appearances",
+  "description": "On this page, I share my media appearances on television (NDR), online (YouTube), radio, and in print such as Bild and Hamburger Abendblatt. Enjoy browsing.",
+  "categories": {
+    "0": { "name": "TV & Online" },
+    "1": { "name": "Print" },
+    "2": { "name": "Radio" }
+  },
+  "videosSectionTitle": "TV & online videos",
+  "videosScrollHint": "Scroll through the videos using the arrow keys or navigation arrows",
+  "printSectionTitle": "Print & online articles",
+  "readArticle": "Read article",
+  "articles": {
+    "0": {
+      "title": "Hamburg native Natalie Zimmermann fights for WBO world title",
+      "source": "NDR Hamburg Journal",
+      "date": "2024",
+      "category": "TV"
+    },
+    "1": {
+      "title": "Boxing world champion in interview",
+      "source": "Hamburger Abendblatt",
+      "date": "2024",
+      "category": "Print"
+    },
+    "2": {
+      "title": "From shepherd's daughter to world champion",
+      "source": "Bild",
+      "date": "2024",
+      "category": "Print"
+    }
+  },
+  "featured": {
+    "badge": "Featured",
+    "title": "NDR Hamburg Journal",
+    "description": "Hamburg native Natalie Zimmermann fights for WBO world title—a detailed report on the path to the world championship.",
+    "cta": "View article"
+  },
+  "videoGallery": {
+    "prevVideo": "Previous video",
+    "nextVideo": "Next video",
+    "keyboardHint": "Use the arrow keys to navigate",
+    "videos": {
+      "0": { "title": "YouTube video player 1" },
+      "1": { "title": "YouTube video player 2" },
+      "2": { "title": "YouTube video player 3" },
+      "3": { "title": "YouTube video player 4" }
+    }
+  }
+}

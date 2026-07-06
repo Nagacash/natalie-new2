@@ -1,0 +1,40 @@
+{
+  "eyebrow": "Our team",
+  "title": "Reaching your goal—together",
+  "description": "Physical therapy, training, and mental coaching—in Hamburg, our team brings medicine, sport, and mindset together under one roof.",
+  "quote": "The strength of the team is each individual member. The strength of each member is the team.",
+  "quoteAuthor": "Phil Jackson",
+  "loading": {
+    "aria": "Loading team",
+    "srOnly": "Loading…"
+  },
+  "carousel": {
+    "roleDescription": "Carousel",
+    "ariaLabel": "Team members",
+    "prevMember": "Previous team member",
+    "nextMember": "Next team member",
+    "memberAltSuffix": "team member at Natalie Zimmermann"
+  },
+  "members": {
+    "0": {
+      "name": "Natalie",
+      "profession": "Mental coach, speaker, influencer, professional boxer, personal trainer, physical therapist. Specialized in manual therapy and elite athletes. Fascia expert and Lu Jong yoga instructor. Mental coach with a focus on Wingwave. Passionate martial artist for 22 years."
+    },
+    "1": {
+      "name": "Jerry",
+      "profession": "Bachelor of Arts in fitness economics. Certified trainer (B and A license), nutrition consultant, and athletic trainer (B license). Offers EMS training. Former semi-professional football player, now football coach and boxing/kickboxing coach."
+    },
+    "2": {
+      "name": "Juri",
+      "profession": "Nutrition scientist (B.Sc.), M.Sc. in nutrition and sport. Lecturer at Macromedia University. Over ten years of experience as a personal trainer with additional qualifications as a functional trainer. Athletic background in karate, football, competitive gymnastics, kickboxing, boxing, Muay Thai, grappling, BJJ, and MMA."
+    }
+  },
+  "stats": {
+    "0": { "value": "22+", "label": "Years of Experience" },
+    "1": { "value": "1000+", "label": "Happy Clients" },
+    "2": { "value": "50+", "label": "Successful Programs" },
+    "3": { "value": "3×", "label": "World Champion" }
+  },
+  "ctaPrimary": "Book a free consultation",
+  "ctaSecondary": "Get to know Natalie"
+}

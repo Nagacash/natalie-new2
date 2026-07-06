@@ -1,0 +1,38 @@
+{
+  "eyebrow": "Testimonials",
+  "title": "What others say",
+  "ratingSummary": "Based on 57 reviews",
+  "trustBadge": "Verified reviews from real clients",
+  "items": {
+    "0": {
+      "name": "FATI",
+      "profession": "AMATEUR BOXER",
+      "comment": "Highly recommended—thank you for the great consultation. The best personal trainers in Hamburg are here!!"
+    },
+    "1": {
+      "name": "EINSTÜCKMAXIKA",
+      "profession": "STUDENT",
+      "comment": "My father and I did altitude training five times before our Kilimanjaro trip to prepare as well as possible for the extreme elevation."
+    },
+    "2": {
+      "name": "DEMET A",
+      "profession": "FATHER",
+      "comment": "Highly recommended! I've been training with Natalie for 8 weeks. They are absolute professionals in their field, and you can tell they've found their passion—which motivates me tremendously."
+    },
+    "3": {
+      "name": "RobertA Foxy",
+      "profession": "MOTHER",
+      "comment": "AMAZING!!"
+    },
+    "4": {
+      "name": "Leslie Alexander",
+      "profession": "CEO, Parkview Int.Ltd",
+      "comment": "I've been training with Natalie and Eugen at least once a week for 8 weeks and don't want to miss it. Even when I'm stressed and tired before training, I feel fantastic afterward—worked out and full of energy. They are absolute professionals, and you can tell they've found their passion, which motivates me tremendously."
+    },
+    "5": {
+      "name": "ENRICO Fisher",
+      "profession": "WORKER",
+      "comment": "SO GOOD—DEFINITELY BOOK IT :)"
+    }
+  }
+}

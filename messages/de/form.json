@@ -1,0 +1,54 @@
+{
+  "eyebrow": "Säule 02 · Form",
+  "title": "Stärke, Stabilität und Leistungsfähigkeit.",
+  "intro": {
+    "0": "FORM ist individuelles Performance Coaching für Menschen, die ihren Körper gezielt stärken und langfristig belastbarer werden möchten. Durch funktionelles Training, Athletiktraining und persönliche Betreuung entsteht ein strukturierter Ansatz für mehr Kraft, Energie und körperliche Kontrolle.",
+    "1": "Ziel von FORM ist es, Muskulatur aufzubauen, Haltung und Bewegungsqualität zu verbessern und den Körper widerstandsfähiger für Alltag, Beruf und Sport zu machen. Die Sessions fördern Kraft, Stabilität, Mobilität und körperliches Wohlbefinden – für mehr Leistungsfähigkeit, Präsenz und ein stärkeres Körpergefühl."
+  },
+  "heroImageAlt": "FORM – Krafttraining und Performance Coaching im Body & Mind Studio",
+  "heroImageCaption": "Foto · Form / Krafttraining",
+  "cta": "Erstgespräch vereinbaren",
+  "effectsSection": {
+    "eyebrow": "Worum es geht",
+    "title": "Drei Schwerpunkte",
+    "subtitle": "FORM baut deinen Körper systematisch auf – mit einem Plan, der zu dir und deinem Alltag passt."
+  },
+  "effects": {
+    "0": {
+      "num": "01",
+      "label": "Foto · Kraft",
+      "title": "Stärke",
+      "text": "Muskulatur aufbauen, Kraft entwickeln und den Körper leistungsfähiger machen."
+    },
+    "1": {
+      "num": "02",
+      "label": "Foto · Stabilität",
+      "title": "Stabilität",
+      "text": "Bewegungsqualität verbessern, Verletzungen vorbeugen und Körperspannung optimieren."
+    },
+    "2": {
+      "num": "03",
+      "label": "Foto · Leistung",
+      "title": "Leistungsfähigkeit",
+      "text": "Ausdauer, Energie und mentale Stärke steigern – für mehr Performance im Alltag und im Training."
+    }
+  },
+  "gainsSection": {
+    "eyebrow": "Dein Gewinn",
+    "title": "Das bringt dir FORM"
+  },
+  "gains": {
+    "0": "Individuelle Trainingsplanung",
+    "1": "Funktionelles Training",
+    "2": "Athletiktraining",
+    "3": "Kraft & Ausdauer",
+    "4": "Mobilität & Prävention",
+    "5": "Haltung & Bewegungsqualität",
+    "6": "Stabilität & Körperspannung",
+    "7": "Persönliche 1:1-Betreuung"
+  },
+  "bottomCta": {
+    "title": "Bereit, stärker zu werden?",
+    "description": "Im kostenlosen Erstgespräch finden wir gemeinsam heraus, wie dein Weg mit FORM aussieht."
+  }
+}

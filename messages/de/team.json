@@ -1,0 +1,40 @@
+{
+  "eyebrow": "Unser Team",
+  "title": "Gemeinsam zu deinem Ziel",
+  "description": "Personal Training, Recovery und Coaching – in Hamburg begleiten dich unsere erfahrenen Experten mit individueller Betreuung, fundiertem Know-how und einem ganzheitlichen Ansatz auf dem Weg zu deinem Ziel.",
+  "quote": "Die Stärke des Teams ist jedes einzelne Mitglied. Die Stärke eines jeden Mitglieds ist das Team.",
+  "quoteAuthor": "Phil Jackson",
+  "loading": {
+    "aria": "Team wird geladen",
+    "srOnly": "Lädt…"
+  },
+  "carousel": {
+    "roleDescription": "Karussell",
+    "ariaLabel": "Teammitglieder",
+    "prevMember": "Vorheriges Teammitglied",
+    "nextMember": "Nächstes Teammitglied",
+    "memberAltSuffix": "Teammitglied bei Natalie Zimmermann"
+  },
+  "members": {
+    "0": {
+      "name": "Natalie",
+      "profession": "Mental Coach, Speaker, Influencer, Profiboxerin, Personal Trainer, Physiotherapeutin. Spezialisiert auf Manuelle Therapie und Leistungssportler. Faszienexpertin und Lu Jong Yoga Lehrerin. Mentalcoach mit Schwerpunkt Wingwave. Leidenschaftliche Kampfsportlerin seit 22 Jahren."
+    },
+    "1": {
+      "name": "Jerry",
+      "profession": "Bachelor of Arts in Fitnessökonomie. Zertifizierter Trainer (B- und A-Lizenz), Ernährungsberater und Athletiktrainer (B-Lizenz). Bietet EMS-Training an. Ehemaliger semi-professioneller Fußballspieler, jetzt Fußballcoach, Box- und Kickboxen-Coach."
+    },
+    "2": {
+      "name": "Juri",
+      "profession": "Ernährungswissenschaftler (B.Sc.), M.Sc. in Ernährung und Sport. Dozent an der Macromedia Hochschule. Über zehn Jahre Erfahrung als Personal Trainer mit Zusatzqualifikationen als Functionaltrainer. Sportliche Erfahrungen in Karate, Fußball, Leistungsturnen, Kickboxen, Boxen, Thaiboxen, Grappling, BJJ und MMA."
+    }
+  },
+  "stats": {
+    "0": { "value": "22+", "label": "Jahre Erfahrung" },
+    "1": { "value": "1000+", "label": "Zufriedene Kunden" },
+    "2": { "value": "50+", "label": "Erfolgreiche Programme" },
+    "3": { "value": "3×", "label": "Weltmeisterin" }
+  },
+  "ctaPrimary": "Erstgespräch vereinbaren",
+  "ctaSecondary": "Natalie kennenlernen"
+}

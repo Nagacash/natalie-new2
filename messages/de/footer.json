@@ -1,0 +1,44 @@
+{
+  "tagline": "Gemeinsam zu körperlicher Stärke und mentaler Resilienz. Natalie Zimmermann – Box-Weltmeisterin und Body & Mind Coach in Hamburg.",
+  "followUs": "Folge uns",
+  "social": {
+    "0": "Facebook",
+    "1": "TikTok",
+    "2": "Instagram"
+  },
+  "copyright": "Alle Rechte vorbehalten.",
+  "designedBy": "Designed by:",
+  "designer": "Naga Codex",
+  "sections": {
+    "0": {
+      "title": "Menu",
+      "links": {
+        "0": { "label": "Home" },
+        "1": { "label": "Philosophie" },
+        "2": { "label": "Über mich" },
+        "3": { "label": "Team" },
+        "4": { "label": "FAQ" },
+        "5": { "label": "Featured" },
+        "6": { "label": "Presse" },
+        "7": { "label": "Kontakt" }
+      }
+    },
+    "1": {
+      "title": "Others",
+      "links": {
+        "0": { "label": "Über mich" },
+        "1": { "label": "Leistungen" },
+        "2": { "label": "Kontakt" },
+        "3": { "label": "FLOW" },
+        "4": { "label": "FORM" },
+        "5": { "label": "Recovery" }
+      }
+    },
+    "2": {
+      "title": "Partners",
+      "links": {
+        "0": { "label": "Mesoskin" }
+      }
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "title": "Body & Mind Philosophy",
+  "tagline": "Flow. Form. Recovery.",
+  "subtitle": "For mind, body, and soul.",
+  "paragraphs": {
+    "0": "In today's world, strengthening the body alone is not enough. True health emerges when mind, body, and soul are in harmony.",
+    "1": "With <flow>Flow</flow>, you find focus, inner calm, and renewed energy. With <form>Form</form>, you strengthen your body, build power, and create the foundation to prevent health issues or improve them sustainably. With <recovery>Recovery</recovery>, you give body and mind the regeneration they need so your soul can draw new strength for everyday challenges.",
+    "2": "Our goal is not just to make you fitter, but to strengthen you holistically—for greater health, performance, balance, and quality of life."
+  },
+  "pillars": {
+    "0": { "label": "Flow" },
+    "1": { "label": "Form" },
+    "2": { "label": "Recovery" }
+  },
+  "natureTriptych": {
+    "ariaLabel": "Mind, body, and soul in images",
+    "moments": {
+      "0": {
+        "label": "Mind",
+        "caption": "Clarity & inner calm",
+        "alt": "Natalie Zimmermann in nature – mind and focus"
+      },
+      "1": {
+        "label": "Body",
+        "caption": "Strength & movement",
+        "alt": "Natalie Zimmermann – physical presence and movement"
+      },
+      "2": {
+        "label": "Soul",
+        "caption": "Balance & equilibrium",
+        "alt": "Natalie Zimmermann – calm and holistic balance"
+      }
+    }
+  },
+  "bookPromo": {
+    "badgeNew": "New · Available now",
+    "badgeChampion": "WBO World Champion",
+    "eyebrow": "My new book",
+    "title": "Success Secrets of a Boxing World Champion",
+    "description": "Inspiration, mental strength, and the strategies behind the path to a world title—for anyone ready to unlock their full potential.",
+    "highlights": {
+      "0": "Mental strength and resilience for everyday life",
+      "1": "The personal journey to becoming a boxing world champion",
+      "2": "Practical insights for sport, career, and life"
+    },
+    "cta": "Buy now on Amazon",
+    "footnote": "Paperback · Order today · Ships via Amazon",
+    "coverAria": "View book cover on Amazon – Success Secrets of a Boxing World Champion"
+  },
+  "ctaTitle": "Ready for the next step?",
+  "ctaDescription": "Let's find out together which path—Flow, Form, or Recovery—is right for you.",
+  "ctaPrimary": "Book a free consultation",
+  "ctaSecondary": "Explore our pillars"
+}

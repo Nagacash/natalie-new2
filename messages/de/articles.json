@@ -1,0 +1,34 @@
+{
+  "eyebrow": "Meine Leistungen",
+  "title": "Was ich für Sie tun kann",
+  "description": "Von FLOW und FORM bis Recovery – entdecken Sie meine drei Säulen für Körper und Geist.",
+  "defaultCta": "Jetzt anfragen",
+  "bottomCta": {
+    "title": "Bereit für eine Zusammenarbeit?",
+    "description": "Lassen Sie uns gemeinsam Ihre Ziele erreichen. Kontaktieren Sie mich für ein individuelles Angebot.",
+    "button": "Jetzt Kontakt aufnehmen"
+  },
+  "items": {
+    "0": {
+      "heading": "FLOW",
+      "heading2": "Box & Kickboxen",
+      "description": "Bewegung als mentales Ventil. FLOW verbindet Boxen und Kickboxen zu intensiver körperlicher und mentaler Entlastung – Stress abbauen, Energie freisetzen, Fokus finden.",
+      "date": "2025",
+      "cta": "Jetzt anfragen"
+    },
+    "1": {
+      "heading": "FORM",
+      "heading2": "Kraft & Performance Coaching",
+      "description": "FORM ist individuelles Performance Coaching für Menschen, die ihren Körper gezielt stärken und langfristig belastbarer werden möchten. Durch funktionelles Training, Athletiktraining und persönliche Betreuung entsteht mehr Kraft, Stabilität und körperliche Leistungsfähigkeit.",
+      "date": "2025",
+      "cta": "Jetzt anfragen"
+    },
+    "2": {
+      "heading": "Recovery",
+      "heading2": "Regeneration & IHHT",
+      "description": "Regeneration für Körper und Nervensystem. IHHT-Training, ATP-Atmung und regenerative Methoden für Erholung, Energie und Balance.",
+      "date": "2025",
+      "cta": "Jetzt anfragen"
+    }
+  }
+}

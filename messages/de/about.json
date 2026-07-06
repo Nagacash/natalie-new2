@@ -1,0 +1,54 @@
+{
+  "title": "Philosophie Body&Mind",
+  "tagline": "Flow. Form. Recovery.",
+  "subtitle": "Für Geist, Körper und Seele.",
+  "paragraphs": {
+    "0": "Gerade in der heutigen Zeit reicht es nicht aus, nur den Körper zu stärken. Wahre Gesundheit entsteht dann, wenn Geist, Körper und Seele im Einklang sind.",
+    "1": "Mit <flow>Flow</flow> findest du Fokus, innere Ruhe und neue Energie. Mit <form>Form</form> stärkst du deinen Körper, baust Kraft auf und schaffst die Grundlage, gesundheitlichen Beschwerden vorzubeugen oder sie nachhaltig zu verbessern. Mit <recovery>Recovery</recovery> gibst du Körper und Geist die Regeneration, die sie brauchen, damit deine Seele neue Kraft für die Herausforderungen des Alltags schöpfen kann.",
+    "2": "Unser Ziel ist es, dich nicht nur fitter zu machen, sondern dich ganzheitlich zu stärken – für mehr Gesundheit, Leistungsfähigkeit, Ausgeglichenheit und Lebensqualität."
+  },
+  "pillars": {
+    "0": { "label": "Flow" },
+    "1": { "label": "Form" },
+    "2": { "label": "Recovery" }
+  },
+  "natureTriptych": {
+    "ariaLabel": "Geist, Körper und Seele in Bildern",
+    "moments": {
+      "0": {
+        "label": "Geist",
+        "caption": "Klarheit & innere Ruhe",
+        "alt": "Natalie Zimmermann in der Natur – Geist und Fokus"
+      },
+      "1": {
+        "label": "Körper",
+        "caption": "Stärke & Bewegung",
+        "alt": "Natalie Zimmermann – körperliche Präsenz und Bewegung"
+      },
+      "2": {
+        "label": "Seele",
+        "caption": "Balance & Ausgeglichenheit",
+        "alt": "Natalie Zimmermann – Ruhe und ganzheitliche Balance"
+      }
+    }
+  },
+  "bookPromo": {
+    "badgeNew": "Neu · Jetzt erhältlich",
+    "badgeChampion": "WBO Weltmeisterin",
+    "eyebrow": "Mein neues Buch",
+    "title": "Erfolgsgeheimnisse einer Box-Weltmeisterin",
+    "description": "Inspiration, mentale Stärke und die Strategien hinter dem Weg zur Weltmeisterschaft – für alle, die mehr aus sich herausholen wollen.",
+    "highlights": {
+      "0": "Mentale Stärke und Resilienz für den Alltag",
+      "1": "Die persönliche Reise zur Box-Weltmeisterin",
+      "2": "Praxisnahe Impulse für Sport, Beruf und Leben"
+    },
+    "cta": "Jetzt bei Amazon kaufen",
+    "footnote": "Taschenbuch · Sofort bestellbar · Versand durch Amazon",
+    "coverAria": "Buchcover auf Amazon ansehen – Erfolgsgeheimnisse einer Box-Weltmeisterin"
+  },
+  "ctaTitle": "Bereit für den nächsten Schritt?",
+  "ctaDescription": "Lass uns gemeinsam herausfinden, welcher Weg – Flow, Form oder Recovery – zu dir passt.",
+  "ctaPrimary": "Erstgespräch vereinbaren",
+  "ctaSecondary": "Unsere Säulen entdecken"
+}

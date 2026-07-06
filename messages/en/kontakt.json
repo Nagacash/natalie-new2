@@ -1,0 +1,42 @@
+{
+  "eyebrow": "Contact",
+  "title": "Let's get started together",
+  "subtitle": "Have questions or want to schedule an appointment? We look forward to hearing from you!",
+  "infoHeading": "Contact information",
+  "infoDescription": "Reach us through multiple channels. We're here for you!",
+  "labels": {
+    "email": "Email",
+    "phone": "Phone",
+    "whatsapp": "WhatsApp",
+    "address": "Address"
+  },
+  "followUs": "Follow us",
+  "social": {
+    "0": "Facebook",
+    "1": "Instagram",
+    "2": "TikTok"
+  },
+  "locationImageAlt": "Body & Mind Studio Hamburg - Rothenbaumchaussee 156",
+  "locationStudio": "Body & Mind Studio",
+  "locationArea": "Harvestehude, Hamburg",
+  "sponsorImageAlt": "National attention in the triple-digit millions—media reach and sponsorship",
+  "formHeading": "Write to us",
+  "formDescription": "Fill out the form and we'll get back to you as soon as possible.",
+  "fields": {
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone",
+    "message": "Message",
+    "required": "*"
+  },
+  "placeholders": {
+    "name": "Your name",
+    "email": "your.email@example.com",
+    "phone": "+49 123 456789",
+    "message": "Your message..."
+  },
+  "submit": "Send message",
+  "submitting": "Sending...",
+  "requiredFieldsNote": "* Required fields",
+  "emailSubjectPrefix": "Contact request from"
+}

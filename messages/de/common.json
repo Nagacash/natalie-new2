@@ -1,0 +1,23 @@
+{
+  "brandName": "Natalie Zimmermann",
+  "studioName": "Body & Mind Studio",
+  "locationShort": "Harvestehude, Hamburg",
+  "addressLine1": "Rothenbaumchaussee 156",
+  "addressLine2": "20149 Hamburg",
+  "addressFull": "Rothenbaumchaussee 156, 20149 Hamburg",
+  "phone": "040 / 53790578",
+  "email": "info@nataliezimmermann.de",
+  "whatsappDisplay": "+49 176 24688929",
+  "cta": {
+    "bookConsultation": "Erstgespräch vereinbaren",
+    "contactNow": "Jetzt Kontakt aufnehmen",
+    "contactUs": "Jetzt kontaktieren",
+    "learnMore": "Mehr erfahren",
+    "getStarted": "Jetzt starten"
+  },
+  "lightbox": {
+    "close": "Schließen",
+    "expand": "Bild vergrößern",
+    "dialogLabel": "Bildansicht"
+  }
+}

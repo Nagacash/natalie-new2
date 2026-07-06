@@ -1,0 +1,12 @@
+{
+  "eyebrow": "Ausgewählte Einblicke",
+  "title": "Unsere Highlights",
+  "description": "Entdecken Sie unsere besten Momente, Trainingseinheiten und Erfolge. Jedes Bild erzählt eine Geschichte von Leidenschaft, Hingabe und Exzellenz.",
+  "prevImage": "Vorheriges Bild",
+  "nextImage": "Nächstes Bild",
+  "selectHighlight": "Highlight auswählen",
+  "items": {
+    "0": { "heading": "" },
+    "1": { "heading": "" }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "eyebrow": "Presse & Medien",
+  "title": "Medienauftritte",
+  "description": "Auf dieser Seite präsentiere ich euch meine Medienauftritte, sowohl im Fernsehen (NDR), Internet (YouTube), Radio und Print wie etwa Bild, Hamburger Abendblatt usw. Viel Spaß beim Stöbern.",
+  "categories": {
+    "0": { "name": "TV & Internet" },
+    "1": { "name": "Print" },
+    "2": { "name": "Radio" }
+  },
+  "videosSectionTitle": "TV & Internet Videos",
+  "videosScrollHint": "Scrollen Sie durch die Videos mit den Pfeiltasten oder den Navigationspfeilen",
+  "printSectionTitle": "Print & Online Artikel",
+  "readArticle": "Artikel lesen",
+  "articles": {
+    "0": {
+      "title": "Hamburgerin Natalie Zimmermann boxt um WBO-WM-Titel",
+      "source": "NDR Hamburg Journal",
+      "date": "2024",
+      "category": "TV"
+    },
+    "1": {
+      "title": "Box-Weltmeisterin im Interview",
+      "source": "Hamburger Abendblatt",
+      "date": "2024",
+      "category": "Print"
+    },
+    "2": {
+      "title": "Von der Schäferstochter zur Weltmeisterin",
+      "source": "Bild",
+      "date": "2024",
+      "category": "Print"
+    }
+  },
+  "featured": {
+    "badge": "Featured",
+    "title": "NDR Hamburg Journal",
+    "description": "Hamburgerin Natalie Zimmermann boxt um WBO-WM-Titel - Ein ausführlicher Bericht über den Weg zur Weltmeisterschaft.",
+    "cta": "Artikel ansehen"
+  },
+  "videoGallery": {
+    "prevVideo": "Vorheriges Video",
+    "nextVideo": "Nächstes Video",
+    "keyboardHint": "Verwenden Sie die Pfeiltasten für Navigation",
+    "videos": {
+      "0": { "title": "YouTube video player 1" },
+      "1": { "title": "YouTube video player 2" },
+      "2": { "title": "YouTube video player 3" },
+      "3": { "title": "YouTube video player 4" }
+    }
+  }
+}

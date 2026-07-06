@@ -1,0 +1,60 @@
+{
+  "eyebrow": "Persönlich",
+  "title": "Über mich",
+  "imageAlt": "Natalie Zimmermann mit WIBF- und WBF-Weltmeistertiteln",
+  "badges": {
+    "0": "WBO · WIBF · WBF",
+    "1": "Weltmeisterin"
+  },
+  "qualificationsHeading": "Qualifikationen",
+  "qualifications": {
+    "0": "Physiotherapeutin",
+    "1": "Personal Fitness Trainerin",
+    "2": "Ernährungsberaterin",
+    "3": "Mental Coach",
+    "4": "Speakerin",
+    "5": "Markenbotschafterin"
+  },
+  "intro": "Natalie Zimmermann ist WIBF- und WBF-Box-Weltmeisterin, Physiotherapeutin, Personal Trainerin und Mental Coach in Hamburg-Harvestehude — im Body & Mind Studio an der Rothenbaumchaussee 156.",
+  "bio": {
+    "0": "Ich bin in Ostholstein aufgewachsen – gemeinsam mit meinen vier Schwestern. Mein Vater war Schaf- und Pferdezüchter. Schon früh habe ich gelernt, Verantwortung zu übernehmen, diszipliniert zu arbeiten und niemals aufzugeben. Diese Werte prägen mich bis heute.",
+    "1": "Ich bin ein Mensch, der Herausforderungen sucht, sich kontinuierlich weiterentwickelt und nie stehen bleibt. Leistung bedeutet für mich nicht nur sportlichen Erfolg, sondern die Bereitschaft, jeden Tag dazuzulernen und das Beste aus sich herauszuholen.",
+    "2": "Deshalb habe ich mich bewusst in unterschiedlichen Bereichen ausgebildet. Für mich gehören Bewegung, Gesundheit, Ernährung und mentale Stärke untrennbar zusammen. Nur wenn alle Bereiche zusammenspielen, kann ein Mensch sein volles Potenzial entfalten."
+  },
+  "timelineHeading": "Im Leistungssport",
+  "milestones": {
+    "0": {
+      "year": "Früh",
+      "title": "Taekwondo · 1. Dan",
+      "detail": "Zehn Jahre Taekwondo mit mehreren Landesmeistertiteln"
+    },
+    "1": {
+      "year": "2017–2019",
+      "title": "Dreifache Deutsche Meisterin",
+      "detail": "Kickboxen · Mitglied der deutschen Nationalmannschaft (WAKO), sieben Jahre"
+    },
+    "2": {
+      "year": "2019",
+      "title": "Vizeweltmeisterin",
+      "detail": "Vollkontakt Kickboxen"
+    },
+    "3": {
+      "year": "2023",
+      "title": "WIBF-Weltmeisterin",
+      "detail": "Superleichtgewicht · Profiboxen (ab 37 Jahren)"
+    },
+    "4": {
+      "year": "2024",
+      "title": "Doppelter Weltmeistertitel",
+      "detail": "WIBF Leichtgewicht & WBF Intercontinental-Weltmeistertitel"
+    }
+  },
+  "closing": {
+    "0": "Mit 37 Jahren begann für mich ein neues Kapitel im Profiboxen. Am 1. September 2023 gewann ich den WIBF-Weltmeistertitel im Superleichtgewicht. Am 27. September 2024 folgten der WIBF-Weltmeistertitel im Leichtgewicht sowie der WBF-Intercontinental-Weltmeistertitel.",
+    "1": "Heute verbinde ich mein Wissen aus Medizin, Therapie, Ernährung, Training, Mentalcoaching und Spitzensport. Mein Ziel ist es, Menschen dabei zu unterstützen, ihre Gesundheit zu verbessern, ihre Leistungsfähigkeit zu steigern und über sich hinauszuwachsen."
+  },
+  "quote": "Ich glaube daran, dass Wachstum eine Entscheidung ist. Wer bereit ist, Verantwortung für sich selbst zu übernehmen und kontinuierlich an sich zu arbeiten, kann Außergewöhnliches erreichen.",
+  "ctaPrimary": "Lass uns sprechen",
+  "ctaSecondary": "Vollständige Biografie",
+  "ctaTertiary": "Medien & Presse"
+}

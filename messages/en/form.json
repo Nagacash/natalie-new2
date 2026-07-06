@@ -1,0 +1,54 @@
+{
+  "eyebrow": "Pillar 02 · Form",
+  "title": "Strength, stability, and performance.",
+  "intro": {
+    "0": "FORM is individual performance coaching for people who want to strengthen their body with purpose and become more resilient over the long term. Through functional training, athletic training, and personal support, you get a structured approach for more strength, energy, and physical control.",
+    "1": "The goal of FORM is to build muscle, improve posture and movement quality, and make your body more resilient for everyday life, work, and sport. Sessions promote strength, stability, mobility, and physical wellbeing—for greater performance, presence, and a stronger sense of your body."
+  },
+  "heroImageAlt": "FORM – strength training and performance coaching at Body & Mind Studio",
+  "heroImageCaption": "Photo · Form / Strength training",
+  "cta": "Book a free consultation",
+  "effectsSection": {
+    "eyebrow": "What it's about",
+    "title": "Three focus areas",
+    "subtitle": "FORM builds your body systematically—with a plan that fits you and your everyday life."
+  },
+  "effects": {
+    "0": {
+      "num": "01",
+      "label": "Photo · Strength",
+      "title": "Strength",
+      "text": "Build muscle, develop power, and make your body more capable."
+    },
+    "1": {
+      "num": "02",
+      "label": "Photo · Stability",
+      "title": "Stability",
+      "text": "Improve movement quality, prevent injury, and optimize body tension."
+    },
+    "2": {
+      "num": "03",
+      "label": "Photo · Performance",
+      "title": "Performance",
+      "text": "Increase endurance, energy, and mental strength—for better performance in daily life and training."
+    }
+  },
+  "gainsSection": {
+    "eyebrow": "Your benefit",
+    "title": "What FORM gives you"
+  },
+  "gains": {
+    "0": "Individual training plans",
+    "1": "Functional training",
+    "2": "Athletic training",
+    "3": "Strength & endurance",
+    "4": "Mobility & prevention",
+    "5": "Posture & movement quality",
+    "6": "Stability & body tension",
+    "7": "Personal 1:1 support"
+  },
+  "bottomCta": {
+    "title": "Ready to get stronger?",
+    "description": "In a free initial consultation, we'll find out together what your path with FORM looks like."
+  }
+}

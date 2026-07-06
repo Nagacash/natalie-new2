@@ -1,0 +1,30 @@
+{
+  "headerLinks": {
+    "0": { "label": "Home", "href": "/#Hero" },
+    "1": { "label": "Philosophie", "href": "/#About" },
+    "2": { "label": "Über mich", "href": "/#UberMich" },
+    "3": { "label": "Team", "href": "/#Team" },
+    "4": { "label": "FAQ", "href": "/#FAQ" },
+    "5": { "label": "Featured", "href": "/#Featured" },
+    "6": { "label": "Presse", "href": "/#Presse" },
+    "7": { "label": "Kontakt", "href": "/kontakt" }
+  },
+  "mobileOnlyLinks": {
+    "0": { "label": "Blog", "href": "/#Blog" },
+    "1": { "label": "Impressum", "href": "/impressum" },
+    "2": { "label": "Datenschutz", "href": "/datenschutz" },
+    "3": { "label": "AGB", "href": "/agb" }
+  },
+  "whatsapp": "WhatsApp",
+  "whatsappContact": "WhatsApp Kontakt",
+  "aria": {
+    "whatsappContact": "WhatsApp Kontakt",
+    "toggleMobileMenu": "Menü öffnen",
+    "closeMenu": "Menü schließen"
+  },
+  "contactHeading": "Kontakt",
+  "localeDe": "DE",
+  "localeEn": "EN",
+  "switchToDe": "Deutsch",
+  "switchToEn": "English"
+}

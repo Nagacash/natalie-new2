@@ -1,0 +1,54 @@
+{
+  "eyebrow": "Pillar 01 · Flow",
+  "title": "Movement as a mental release valve.",
+  "intro": {
+    "0": "FLOW combines boxing and kickboxing into an intense form of physical and mental relief. Through targeted boxing and kick combinations, focus, and presence, you create space to release stress, unlock energy, and clear your mind.",
+    "1": "The goal of FLOW is to balance mental load, release inner tension, and build physical strength, endurance, and confidence at the same time. Sessions strengthen focus, discipline, and responsiveness—helping you perform better and feel more balanced in daily life."
+  },
+  "heroImageAlt": "FLOW – strength training and movement in the gym",
+  "heroImageCaption": "Photo · Flow / Movement",
+  "cta": "Book a free consultation",
+  "effectsSection": {
+    "eyebrow": "What it's about",
+    "title": "Three effects, one feeling",
+    "subtitle": "FLOW works on body and mind at once—that is what sets it apart from simply working out."
+  },
+  "effects": {
+    "0": {
+      "num": "01",
+      "label": "Photo · Movement",
+      "title": "Release stress",
+      "text": "Let go of what weighs on you. Movement helps release inner tension and clear your head."
+    },
+    "1": {
+      "num": "02",
+      "label": "Photo · Energy",
+      "title": "Unlock energy",
+      "text": "Release the energy that drives you—more strength, endurance, and a better sense of your body."
+    },
+    "2": {
+      "num": "03",
+      "label": "Photo · Focus",
+      "title": "Focus & presence",
+      "text": "Become strong in the moment. More focus, clarity, and control—in training and in life."
+    }
+  },
+  "gainsSection": {
+    "eyebrow": "Your benefit",
+    "title": "What FLOW gives you"
+  },
+  "gains": {
+    "0": "Release stress",
+    "1": "Unlock energy",
+    "2": "Focus & presence",
+    "3": "Build confidence",
+    "4": "Strength & endurance",
+    "5": "Discipline & routine",
+    "6": "Improve responsiveness",
+    "7": "Mental clarity"
+  },
+  "bottomCta": {
+    "title": "Ready to let the pressure out?",
+    "description": "In a free initial consultation, we'll find out together whether FLOW is the right path for you."
+  }
+}

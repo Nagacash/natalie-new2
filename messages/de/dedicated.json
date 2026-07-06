@@ -1,0 +1,27 @@
+{
+  "eyebrow": "Im Einsatz",
+  "title": "Champion-Mindset für deinen Alltag",
+  "description": "Spitzensport lehrt, unter Druck klar zu bleiben und jeden Tag das Beste zu geben. Genau diese Prinzipien setze ich heute in meinem Coaching ein – im Einzeltraining, im Studio und in meinen Vorträgen.",
+  "strengths": {
+    "0": {
+      "title": "Motivation",
+      "text": "Disziplin und Durchhaltevermögen, die dich auch dann weiterbringen, wenn es schwierig wird."
+    },
+    "1": {
+      "title": "Strategie",
+      "text": "Klare Struktur, messbare Ziele und ein Plan, der zu deinem Alltag passt – nicht nur zum Training."
+    },
+    "2": {
+      "title": "Selbstbehauptung",
+      "text": "Mentale Stärke und Präsenz unter Druck – übersetzt in deinen Beruf, dein Training und dein Leben."
+    }
+  },
+  "galleryAlts": {
+    "0": "Natalie Zimmermann beim Training",
+    "1": "Natalie Zimmermann im Boxen",
+    "2": "Natalie Zimmermann im Einsatz"
+  },
+  "mainImageAlt": "Natalie Zimmermann beim Coaching und Training",
+  "ctaPrimary": "Erstgespräch vereinbaren",
+  "ctaSecondary": "Meine Geschichte"
+}

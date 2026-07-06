@@ -1,0 +1,60 @@
+{
+  "eyebrow": "Personal",
+  "title": "About me",
+  "imageAlt": "Natalie Zimmermann with WIBF and WBF world championship titles",
+  "badges": {
+    "0": "WBO · WIBF · WBF",
+    "1": "World Champion"
+  },
+  "qualificationsHeading": "Qualifications",
+  "qualifications": {
+    "0": "Physical Therapist",
+    "1": "Personal Fitness Trainer",
+    "2": "Nutrition Consultant",
+    "3": "Mental Coach",
+    "4": "Speaker",
+    "5": "Brand Ambassador"
+  },
+  "intro": "Natalie Zimmermann is a WIBF and WBF boxing world champion, physical therapist, personal trainer, and mental coach in Hamburg-Harvestehude—at the Body & Mind Studio on Rothenbaumchaussee 156.",
+  "bio": {
+    "0": "I grew up in Ostholstein with my four sisters. My father was a sheep and horse breeder. From an early age, I learned to take responsibility, work with discipline, and never give up. These values still define me today.",
+    "1": "I am someone who seeks challenges, continuously evolves, and never stands still. Performance, to me, is not only athletic success, but the willingness to learn every day and bring out the best in yourself.",
+    "2": "That is why I deliberately trained across different fields. For me, movement, health, nutrition, and mental strength belong together. Only when all areas work in sync can a person reach their full potential."
+  },
+  "timelineHeading": "In competitive sport",
+  "milestones": {
+    "0": {
+      "year": "Early years",
+      "title": "Taekwondo · 1st Dan",
+      "detail": "Ten years of taekwondo with multiple state championship titles"
+    },
+    "1": {
+      "year": "2017–2019",
+      "title": "Three-time German Champion",
+      "detail": "Kickboxing · member of the German national team (WAKO) for seven years"
+    },
+    "2": {
+      "year": "2019",
+      "title": "Vice World Champion",
+      "detail": "Full-contact kickboxing"
+    },
+    "3": {
+      "year": "2023",
+      "title": "WIBF World Champion",
+      "detail": "Super lightweight · professional boxing (starting at age 37)"
+    },
+    "4": {
+      "year": "2024",
+      "title": "Double world title",
+      "detail": "WIBF lightweight & WBF intercontinental world title"
+    }
+  },
+  "closing": {
+    "0": "At 37, a new chapter in professional boxing began for me. On September 1, 2023, I won the WIBF world title in super lightweight. On September 27, 2024, I followed with the WIBF lightweight world title and the WBF intercontinental world title.",
+    "1": "Today I combine my knowledge from medicine, therapy, nutrition, training, mental coaching, and elite sport. My goal is to help people improve their health, increase their performance, and grow beyond their limits."
+  },
+  "quote": "I believe growth is a choice. Anyone willing to take responsibility for themselves and keep working on themselves can achieve extraordinary things.",
+  "ctaPrimary": "Let's talk",
+  "ctaSecondary": "Full biography",
+  "ctaTertiary": "Media & press"
+}

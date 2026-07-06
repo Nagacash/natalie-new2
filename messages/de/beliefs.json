@@ -1,0 +1,22 @@
+{
+  "eyebrow": "Unsere Angebote",
+  "title": "Massagen & Kickboxen",
+  "massage": {
+    "eyebrow": "Regeneration & Entspannung",
+    "title": "Massagen",
+    "description": {
+      "0": "Gönn deinem Körper eine Auszeit. Unsere erfahrenen Masseure helfen dir, Verspannungen zu lösen, Schmerzen zu lindern und die Regeneration zu fördern.",
+      "1": "Egal ob nach dem Training oder im Alltag – unsere Massagen bringen deinen Körper wieder ins Gleichgewicht."
+    },
+    "cta": "Jetzt Termin vereinbaren"
+  },
+  "kickboxing": {
+    "eyebrow": "Dynamik & Präzision",
+    "title": "Kickboxen",
+    "description": {
+      "0": "Für alle, die noch mehr Bewegung wollen: Beim Kickboxen trainierst du mit einer Kombination aus Box- und Kicktechniken. Dieses Workout fördert deine Beweglichkeit, stärkt deine Muskulatur und schult deine Koordination.",
+      "1": "Dabei steht der Spaß am Sport und das Training in einer unterstützenden Atmosphäre immer im Vordergrund."
+    },
+    "cta": "Jetzt Kontakt aufnehmen"
+  }
+}

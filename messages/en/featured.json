@@ -1,0 +1,12 @@
+{
+  "eyebrow": "Selected insights",
+  "title": "Our highlights",
+  "description": "Discover our best moments, training sessions, and achievements. Every image tells a story of passion, dedication, and excellence.",
+  "prevImage": "Previous image",
+  "nextImage": "Next image",
+  "selectHighlight": "Select highlight",
+  "items": {
+    "0": { "heading": "" },
+    "1": { "heading": "" }
+  }
+}

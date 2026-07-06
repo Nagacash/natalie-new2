@@ -1,0 +1,61 @@
+{
+  "eyebrow": "Questions & answers",
+  "title": "Frequently asked questions",
+  "description": "Find quick answers to the most common questions. If you have more questions, we'd love to hear from you.",
+  "searchPlaceholder": "Search questions...",
+  "filterAll": "All",
+  "selectTopic": "Choose a topic",
+  "questionsAria": "Questions",
+  "toContactPage": "Go to contact page",
+  "noResultsTitle": "No results found",
+  "noResultsDescription": "Try different search terms or <contact>contact us directly</contact>.",
+  "contactUsDirect": "contact us directly",
+  "ctaTitle": "Have more questions?",
+  "ctaDescription": "We're happy to help. Contact us for a personal consultation.",
+  "ctaButton": "Contact us now",
+  "categories": {
+    "Allgemein": "General",
+    "Preise": "Pricing",
+    "Termine": "Appointments",
+    "Standort": "Location",
+    "Training": "Training",
+    "Mental Coaching": "Mental Coaching"
+  },
+  "items": {
+    "0": {
+      "question": "How can I reach you?",
+      "answer": "You can reach us through the contact form on this website. We are also available by email (info@nataliezimmermann.de) and phone (040 / 53790578). Visit our contact page for full contact details.",
+      "category": "General"
+    },
+    "1": {
+      "question": "How much does one hour of personal training cost?",
+      "answer": "The cost of one hour of personal training at Body & Mind by Natalie Zimmermann varies depending on your individual needs and requirements. We offer tailored training programs based on your goals, fitness level, and availability. For detailed pricing and a personalized offer, please contact us directly.",
+      "category": "Pricing"
+    },
+    "2": {
+      "question": "How does scheduling work?",
+      "answer": "Contact us via the contact form or by phone and schedule your preferred appointment flexibly. We are happy to adapt to your schedule and find the best time together.",
+      "category": "Appointments"
+    },
+    "3": {
+      "question": "Where does training take place?",
+      "answer": "Training takes place at our Body & Mind Studio in Hamburg-Harvestehude. Our space is in a beautiful Art Nouveau villa at Rothenbaumchaussee 156, 20149 Hamburg. We also offer online training.",
+      "category": "Location"
+    },
+    "4": {
+      "question": "What types of training do you offer?",
+      "answer": "We offer a broad range of training options: boxing, kickboxing, personal training, mental coaching, massage, physical therapy, fascia training, Lu Jong yoga, and more. Every session is tailored to your needs.",
+      "category": "Training"
+    },
+    "5": {
+      "question": "Do I need prior experience?",
+      "answer": "No prior experience is required. We adapt training to your individual fitness level. Whether beginner or advanced—we have the right program for you.",
+      "category": "Training"
+    },
+    "6": {
+      "question": "Does Natalie Zimmermann offer Wingwave coaching in Hamburg?",
+      "answer": "Yes. Natalie Zimmermann is a mental coach specializing in Wingwave and offers Wingwave coaching at the Body & Mind Studio in Hamburg-Harvestehude (Rothenbaumchaussee 156, 20149 Hamburg). Wingwave is a neurobiologically grounded method for quickly resolving emotional blocks and stress—combined with personal training and physical therapy. Appointments: info@nataliezimmermann.de or 040 / 53790578.",
+      "category": "Mental Coaching"
+    }
+  }
+}

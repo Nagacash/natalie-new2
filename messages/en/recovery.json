@@ -1,0 +1,76 @@
+{
+  "eyebrow": "Recovery",
+  "title": "Regeneration for body and nervous system.",
+  "intro": {
+    "0": "Recovery combines targeted applications with personal guidance to sustainably balance physical and mental load. Through IHHT training, ATP breathing, and regenerative methods, you create space for rest, recovery, and renewed energy.",
+    "1": "The goal of Recovery is to reduce stress, support regeneration, and improve overall well-being. Sessions help your body recover faster, rebuild energy, and regain balance, focus, and inner calm in everyday life."
+  },
+  "heroImageAlt": "Recovery – regeneration and IHHT area",
+  "heroImageCaption": "Photo · Recovery / IHHT area",
+  "cta": "Book a free consultation",
+  "effectsSection": {
+    "eyebrow": "What it's about",
+    "title": "More than rest alone",
+    "subtitle": "Recovery works on multiple levels—from muscle tissue to the nervous system."
+  },
+  "effects": {
+    "0": {
+      "num": "01",
+      "label": "Photo · Regeneration",
+      "title": "Recovery",
+      "text": "Relieves tension, supports circulation, and helps your muscles regenerate."
+    },
+    "1": {
+      "num": "02",
+      "label": "Photo · IHHT",
+      "title": "IHHT training",
+      "text": "Supports cellular respiration, boosts performance, and promotes regeneration at the cellular level."
+    },
+    "2": {
+      "num": "03",
+      "label": "Photo · Breathing",
+      "title": "Breath & relaxation",
+      "text": "Activates self-regulation, reduces stress, and brings body and mind back into balance."
+    }
+  },
+  "gainsSection": {
+    "eyebrow": "Your benefit",
+    "title": "What Recovery gives you"
+  },
+  "gains": {
+    "0": "Reduce stress",
+    "1": "Support regeneration",
+    "2": "Build energy",
+    "3": "Sleep & recovery",
+    "4": "Increase performance",
+    "5": "Body & mind in balance"
+  },
+  "stepsSection": {
+    "eyebrow": "How it works",
+    "title": "Add Recovery to your training",
+    "subtitle": "Recovery is a modular building block—you add it to FLOW or FORM as much or as little as fits your needs."
+  },
+  "steps": {
+    "0": {
+      "num": "1",
+      "title": "Choose your base",
+      "text": "You start with FLOW or FORM at the level that fits you."
+    },
+    "1": {
+      "num": "2",
+      "title": "Add Recovery",
+      "text": "Book Recovery to match your training frequency—from €70 per session."
+    },
+    "2": {
+      "num": "3",
+      "title": "Restart refreshed",
+      "text": "Training and regeneration work together—for better recovery and performance."
+    }
+  },
+  "disclaimer": "In every Recovery session, we combine—tailored to you—IHHT, ATP breathing, mental coaching, nervous system regulation, body scans, leg compression, and targeted supplementation. Recovery applications support regeneration and well-being; they are not medical treatment and do not replace medical diagnosis or therapy. Pricing details are available under <memberships>Memberships</memberships>.",
+  "membershipsLink": "Memberships",
+  "bottomCta": {
+    "title": "Give your body real recovery",
+    "description": "In a free initial consultation, we'll show you how training and Recovery work together."
+  }
+}

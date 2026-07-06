@@ -1,0 +1,27 @@
+{
+  "eyebrow": "In action",
+  "title": "Champion mindset for everyday life",
+  "description": "Elite sport teaches you to stay clear under pressure and give your best every day. These are the principles I apply in my coaching today—in one-on-one training, in the studio, and in my talks.",
+  "strengths": {
+    "0": {
+      "title": "Motivation",
+      "text": "Discipline and perseverance that keep you moving forward even when it gets hard."
+    },
+    "1": {
+      "title": "Strategy",
+      "text": "Clear structure, measurable goals, and a plan that fits your life—not just your training."
+    },
+    "2": {
+      "title": "Self-assertion",
+      "text": "Mental strength and presence under pressure—translated into your career, training, and life."
+    }
+  },
+  "galleryAlts": {
+    "0": "Natalie Zimmermann training",
+    "1": "Natalie Zimmermann boxing",
+    "2": "Natalie Zimmermann in action"
+  },
+  "mainImageAlt": "Natalie Zimmermann coaching and training",
+  "ctaPrimary": "Book a free consultation",
+  "ctaSecondary": "My story"
+}

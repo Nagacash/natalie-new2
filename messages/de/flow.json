@@ -1,0 +1,54 @@
+{
+  "eyebrow": "Säule 01 · Flow",
+  "title": "Bewegung als mentales Ventil.",
+  "intro": {
+    "0": "FLOW verbindet Boxen und Kickboxen zu einer intensiven Form körperlicher und mentaler Entlastung. Durch gezielte Box- und Kickkombinationen, Fokus und Präsenz entsteht ein Raum, um Stress abzubauen, Energie freizusetzen und den Kopf wieder klar zu bekommen.",
+    "1": "Ziel von FLOW ist es, mentale Belastung auszugleichen, innere Spannung abzubauen und gleichzeitig körperliche Stärke, Ausdauer und Selbstbewusstsein aufzubauen. Die Sessions fördern Fokus, Disziplin und Reaktionsfähigkeit – und helfen dir, im Alltag leistungsfähiger und ausgeglichener zu sein."
+  },
+  "heroImageAlt": "FLOW – Krafttraining und Bewegung im Gym",
+  "heroImageCaption": "Foto · Flow / Bewegung",
+  "cta": "Erstgespräch vereinbaren",
+  "effectsSection": {
+    "eyebrow": "Worum es geht",
+    "title": "Drei Wirkungen, ein Gefühl",
+    "subtitle": "FLOW wirkt auf Körper und Kopf zugleich – das macht den Unterschied zu reinem Auspowern."
+  },
+  "effects": {
+    "0": {
+      "num": "01",
+      "label": "Foto · Bewegung",
+      "title": "Stress abbauen",
+      "text": "Lass los, was dich belastet. Bewegung hilft dir, innere Spannung zu lösen und den Kopf freizubekommen."
+    },
+    "1": {
+      "num": "02",
+      "label": "Foto · Energie",
+      "title": "Energie freisetzen",
+      "text": "Setze Energie frei, die dich antreibt – mehr Kraft, Ausdauer und ein besseres Körpergefühl."
+    },
+    "2": {
+      "num": "03",
+      "label": "Foto · Fokus",
+      "title": "Fokus & Präsenz",
+      "text": "Werde im Moment stark. Mehr Fokus, Klarheit und Kontrolle – im Training und im Alltag."
+    }
+  },
+  "gainsSection": {
+    "eyebrow": "Dein Gewinn",
+    "title": "Das bringt dir FLOW"
+  },
+  "gains": {
+    "0": "Stress abbauen",
+    "1": "Energie freisetzen",
+    "2": "Fokus & Präsenz",
+    "3": "Selbstbewusstsein steigern",
+    "4": "Kraft & Ausdauer",
+    "5": "Disziplin & Routine",
+    "6": "Reaktionsfähigkeit verbessern",
+    "7": "Mentale Klarheit"
+  },
+  "bottomCta": {
+    "title": "Bereit, Druck rauszulassen?",
+    "description": "Im kostenlosen Erstgespräch finden wir gemeinsam heraus, ob FLOW der richtige Weg für dich ist."
+  }
+}

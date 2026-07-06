@@ -1,0 +1,34 @@
+{
+  "eyebrow": "My services",
+  "title": "What I can do for you",
+  "description": "From FLOW and FORM to Recovery—discover my three pillars for body and mind.",
+  "defaultCta": "Request now",
+  "bottomCta": {
+    "title": "Ready to work together?",
+    "description": "Let's reach your goals together. Contact me for a personalized offer.",
+    "button": "Get in touch now"
+  },
+  "items": {
+    "0": {
+      "heading": "FLOW",
+      "heading2": "Boxing & Kickboxing",
+      "description": "Movement as a mental release valve. FLOW combines boxing and kickboxing for intense physical and mental relief—release stress, unlock energy, find focus.",
+      "date": "2025",
+      "cta": "Request now"
+    },
+    "1": {
+      "heading": "FORM",
+      "heading2": "Strength & Performance Coaching",
+      "description": "FORM is individual performance coaching for people who want to strengthen their body with purpose and become more resilient over the long term. Through functional training, athletic training, and personal support, you build strength, stability, and physical performance.",
+      "date": "2025",
+      "cta": "Request now"
+    },
+    "2": {
+      "heading": "Recovery",
+      "heading2": "Regeneration & IHHT",
+      "description": "Regeneration for body and nervous system. IHHT training, ATP breathing, and regenerative methods for recovery, energy, and balance.",
+      "date": "2025",
+      "cta": "Request now"
+    }
+  }
+}

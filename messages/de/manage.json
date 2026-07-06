@@ -1,0 +1,48 @@
+{
+  "title": "Buchungen",
+  "features": {
+    "0": "Best Training",
+    "1": "weekly",
+    "2": "Cancel Anytime"
+  },
+  "trialBanner": "freies probetraining",
+  "billingYearly": "Billed Yearly",
+  "billingMonthly": "Billed Monthly",
+  "toggleBilling": "Toggle billing period",
+  "ctaTrial": "Start My 15-day Trial",
+  "plans": {
+    "0": {
+      "heading": "Powerworkout 2 Times a Week",
+      "user": "pro Monat",
+      "features": {
+        "0": "2 Trainingseinheiten pro Woche",
+        "1": "Individueller Trainingsplan",
+        "2": "Ernährungsberatung (Basis)",
+        "3": "Zugang zur Community",
+        "4": "E-Mail-Support"
+      }
+    },
+    "1": {
+      "heading": "4 Times a Week",
+      "user": "pro Monat",
+      "features": {
+        "0": "4 Trainingseinheiten pro Woche",
+        "1": "Fortgeschrittener Trainingsplan",
+        "2": "Detaillierte Ernährungsberatung",
+        "3": "Premium Community Zugang",
+        "4": "Priorisierter E-Mail-Support"
+      }
+    },
+    "2": {
+      "heading": "Jeden Tag Trainieren",
+      "user": "pro Monat",
+      "features": {
+        "0": "Tägliche Trainingseinheiten",
+        "1": "Maßgeschneiderter Elite-Trainingsplan",
+        "2": "Umfassende Ernährungs- und Lebensstilberatung",
+        "3": "Exklusiver 1-zu-1 Coaching-Zugang",
+        "4": "24/7 WhatsApp Support"
+      }
+    }
+  }
+}

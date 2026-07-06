@@ -1,0 +1,76 @@
+{
+  "eyebrow": "Recovery",
+  "title": "Regeneration für Körper und Nervensystem.",
+  "intro": {
+    "0": "Recovery kombiniert gezielte Anwendungen mit persönlicher Betreuung, um körperliche und mentale Belastung nachhaltig auszugleichen. Durch IHHT-Training, ATP-Atmung und regenerative Methoden entsteht ein Raum für Ruhe, Erholung und neue Energie.",
+    "1": "Ziel von Recovery ist es, Stress zu reduzieren, die Regeneration zu fördern und das allgemeine Wohlbefinden zu verbessern. Die Sessions unterstützen deinen Körper dabei, schneller zu regenerieren, neue Energie aufzubauen und wieder mehr Balance, Fokus und innere Ruhe im Alltag zu finden."
+  },
+  "heroImageAlt": "Recovery – Regeneration und IHHT-Bereich",
+  "heroImageCaption": "Foto · Recovery / IHHT-Bereich",
+  "cta": "Erstgespräch vereinbaren",
+  "effectsSection": {
+    "eyebrow": "Worum es geht",
+    "title": "Mehr als nur Erholung",
+    "subtitle": "Recovery wirkt auf mehreren Ebenen – von der Muskulatur bis zum Nervensystem."
+  },
+  "effects": {
+    "0": {
+      "num": "01",
+      "label": "Foto · Regeneration",
+      "title": "Recovery",
+      "text": "Löst Verspannungen, fördert die Durchblutung und unterstützt die Regeneration deiner Muskulatur."
+    },
+    "1": {
+      "num": "02",
+      "label": "Foto · IHHT",
+      "title": "IHHT-Training",
+      "text": "Unterstützt die Zellatmung, steigert die Leistungsfähigkeit und fördert die Regeneration auf zellulärer Ebene."
+    },
+    "2": {
+      "num": "03",
+      "label": "Foto · Atmung",
+      "title": "Atem & Entspannung",
+      "text": "Aktiviert deine Selbstregulation, reduziert Stress und bringt Körper und Geist wieder in Balance."
+    }
+  },
+  "gainsSection": {
+    "eyebrow": "Dein Gewinn",
+    "title": "Das bringt dir Recovery"
+  },
+  "gains": {
+    "0": "Stress reduzieren",
+    "1": "Regeneration fördern",
+    "2": "Energie aufbauen",
+    "3": "Schlaf & Erholung",
+    "4": "Leistungsfähigkeit steigern",
+    "5": "Körper & Geist in Balance"
+  },
+  "stepsSection": {
+    "eyebrow": "So einfach geht's",
+    "title": "Recovery zu deinem Training dazu",
+    "subtitle": "Recovery ist ein modularer Baustein – du buchst ihn passend zu FLOW oder FORM dazu, so viel oder so wenig, wie zu dir passt."
+  },
+  "steps": {
+    "0": {
+      "num": "1",
+      "title": "Basis wählen",
+      "text": "Du startest mit FLOW oder FORM in der Stufe, die zu dir passt."
+    },
+    "1": {
+      "num": "2",
+      "title": "Recovery dazu",
+      "text": "Du buchst Recovery passend zu deiner Trainingsfrequenz dazu – ab 70 € pro Einheit."
+    },
+    "2": {
+      "num": "3",
+      "title": "Erholt durchstarten",
+      "text": "Training und Regeneration greifen ineinander – für bessere Erholung und Leistungsfähigkeit."
+    }
+  },
+  "disclaimer": "In jeder Recovery-Einheit kombinieren wir – abgestimmt auf dich – IHHT, ATP-Atmung, mentales Coaching, Nervensystem-Regulation, Körper-Scans, Beinkompressionen und gezielte Supplementierung. Recovery-Anwendungen dienen der Regeneration und dem Wohlbefinden; sie sind keine medizinische Heilbehandlung und ersetzen keine ärztliche Diagnose oder Therapie. Details zu Tarifen findest du unter <memberships>Mitgliedschaften</memberships>.",
+  "membershipsLink": "Mitgliedschaften",
+  "bottomCta": {
+    "title": "Gönn deinem Körper echte Erholung",
+    "description": "Im kostenlosen Erstgespräch zeigen wir dir, wie Training und Recovery zusammen wirken."
+  }
+}

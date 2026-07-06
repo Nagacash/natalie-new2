@@ -1,0 +1,22 @@
+{
+  "eyebrow": "Our offerings",
+  "title": "Massage & kickboxing",
+  "massage": {
+    "eyebrow": "Regeneration & relaxation",
+    "title": "Massage",
+    "description": {
+      "0": "Give your body a break. Our experienced therapists help release tension, ease pain, and support regeneration.",
+      "1": "Whether after training or in everyday life—our massages help restore balance to your body."
+    },
+    "cta": "Book an appointment now"
+  },
+  "kickboxing": {
+    "eyebrow": "Dynamic & precise",
+    "title": "Kickboxing",
+    "description": {
+      "0": "For anyone who wants more movement: kickboxing combines boxing and kicking techniques. This workout improves mobility, strengthens muscles, and trains coordination.",
+      "1": "Fun and supportive atmosphere always come first."
+    },
+    "cta": "Get in touch now"
+  }
+}

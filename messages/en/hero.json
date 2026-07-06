@@ -1,0 +1,27 @@
+{
+  "badge": "Boxing World Champion · Hamburg",
+  "title": "Together for greater wellbeing and performance",
+  "subtitle": "At Body & Mind Studio, you are at the center. Our experienced team supports you with heart, expertise, and personal care on your path to greater health, strength, and quality of life.",
+  "subtitle2": "The studio was founded by Natalie Zimmermann—professional boxer, WIBF/WBF world champion, mental coach, and personal trainer. Together, we make sure you receive the support that fits you.",
+  "imageAlt": "Natalie Zimmermann – boxing world champion, physical therapist, and mental coach",
+  "badgePhoto": "WIBF · WBF World Champion",
+  "badgeYearsMobile": "22+ Years",
+  "floatingCardOrg": "WBO",
+  "floatingCardTitle": "World Champion",
+  "floatingCardYears": "22+",
+  "floatingCardYearsLabel": "Years of Expertise",
+  "ctaPrimary": "Book a free consultation",
+  "ctaSecondary": "Explore our philosophy",
+  "quickLinks": {
+    "0": { "label": "Philosophy" },
+    "1": { "label": "My Book" },
+    "2": { "label": "Contact" }
+  },
+  "stats": {
+    "0": { "value": "22+", "label": "Years of Experience" },
+    "1": { "value": "1000+", "label": "Happy Clients" },
+    "2": { "value": "1", "label": "World Champion" }
+  },
+  "scrollLabel": "Learn more",
+  "scrollAria": "Scroll to philosophy section"
+}

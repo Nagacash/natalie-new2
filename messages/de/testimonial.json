@@ -1,0 +1,38 @@
+{
+  "eyebrow": "Testimonials",
+  "title": "Was andere sagen",
+  "ratingSummary": "Basierend auf 57 Bewertungen",
+  "trustBadge": "Verifizierte Bewertungen von echten Kunden",
+  "items": {
+    "0": {
+      "name": "FATI",
+      "profession": "AMATEUR BOXER",
+      "comment": "Kann ich nur weiter empfehlen,danke für die nette Beratung,die besten personal Trainer aus Hamburg sind hier zu finden !!"
+    },
+    "1": {
+      "name": "EINSTÜCKMAXIKA",
+      "profession": "STUDENTIN",
+      "comment": "Mein Vater und ich waren vor unserer Kilimandscharoreise fünf mal beim Höhentraining, um uns bestmöglich auf die extreme Höhe vorzubereiten."
+    },
+    "2": {
+      "name": "DEMET A",
+      "profession": "VATER",
+      "comment": "Kann ich nur weiterempfehlen! Seit 8 Wochen trainiere ich mit Natalie. Beide sind absolute Profis auf ihrem Gebiet und man merkt ihnen an, dass sie ihre Passion gefunden haben, was mich total motiviert."
+    },
+    "3": {
+      "name": "RobertA Foxy",
+      "profession": "MUTTER",
+      "comment": "SUPER !!"
+    },
+    "4": {
+      "name": "Leslie Alexander",
+      "profession": "CEO, Parkview Int.Ltd",
+      "comment": "Seit 8 Wochen trainiere ich mit Natalie und Eugen mindestens einmal die Woche und will es nicht mehr missen. Selbst wenn ich vor dem Training gestresst und müde bin - danach fühle ich mich grandios und gleichzeitig ausgepowert und voller Energie. Beide sind absolute Profis auf ihrem Gebiet und man merkt ihnen an, dass sie ihre Passion gefunden haben, was mich total motiviert."
+    },
+    "5": {
+      "name": "ENRICO Fisher",
+      "profession": "ARBEITER",
+      "comment": "ZU GUT DAS GANZE, UNBEDINGT BUCHEN :)"
+    }
+  }
+}
