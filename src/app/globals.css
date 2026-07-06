@@ -330,6 +330,12 @@ main {
   z-index: 2;
 }
 
+/* Mobile nav drawer — outside header to avoid backdrop-blur transparency */
+.mobile-nav-drawer {
+  background-color: #ffffff;
+  isolation: isolate;
+}
+
 /* Mobile drawer (Modal.tsx) */
 .menu {
   height: 100vh;

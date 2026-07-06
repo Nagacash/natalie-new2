@@ -1,0 +1,22 @@
+# German (default locale, no prefix)
+http://127.0.0.1:3001/
+http://127.0.0.1:3001/about-me
+http://127.0.0.1:3001/agb
+http://127.0.0.1:3001/datenschutz
+http://127.0.0.1:3001/documentation
+http://127.0.0.1:3001/impressum
+http://127.0.0.1:3001/kontakt
+http://127.0.0.1:3001/imprint
+http://127.0.0.1:3001/privacy
+# English
+http://127.0.0.1:3001/en
+http://127.0.0.1:3001/en/about-me
+http://127.0.0.1:3001/en/agb
+http://127.0.0.1:3001/en/datenschutz
+http://127.0.0.1:3001/en/documentation
+http://127.0.0.1:3001/en/impressum
+http://127.0.0.1:3001/en/kontakt
+http://127.0.0.1:3001/en/imprint
+http://127.0.0.1:3001/en/privacy
+# Error route
+http://127.0.0.1:3001/does-not-exist
