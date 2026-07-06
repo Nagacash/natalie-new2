@@ -17,7 +17,7 @@ const Insta = () => {
   const imageAlts = Object.values(t.raw('imageAlts') as Record<string, string>)
 
   return (
-    <section className='container mx-auto max-w-2xl pt-16 pb-16 px-4 sm:px-6 lg:max-w-7xl lg:px-8 xl:-mb-44 lg:-mb-34'>
+    <section className='container mx-auto max-w-2xl pt-16 pb-16 px-4 sm:px-6 lg:max-w-7xl lg:px-8 mb-0'>
       <div className='grid grid-cols-1 gap-y-10 gap-x-16 sm:grid-cols-2 lg:grid-cols-4 xl:gap-x-8'>
         {INSTA_IMAGES.map((src, i) => (
           <motion.div
@@ -36,7 +36,7 @@ const Insta = () => {
               className='w-full h-full object-cover'
             />
 
-            <a href='https://instagram.com' target='_blank' rel='noopener noreferrer'>
+            <a href='https://www.instagram.com/nataliezimmermann_ger/' target='_blank' rel='noopener noreferrer'>
               <div className='absolute inset-0 bg-black/60 translate-y-full group-hover:translate-y-0 transition-transform duration-500 ease-in-out rounded-3xl flex items-center justify-center'>
                 <Image
                   src='/images/insta/instagram.svg'

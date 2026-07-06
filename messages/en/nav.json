@@ -1,13 +1,14 @@
 {
   "headerLinks": {
     "0": { "label": "Home", "href": "/#Hero" },
-    "1": { "label": "Philosophy", "href": "/#About" },
-    "2": { "label": "About Me", "href": "/#UberMich" },
-    "3": { "label": "Team", "href": "/#Team" },
-    "4": { "label": "FAQ", "href": "/#FAQ" },
-    "5": { "label": "Featured", "href": "/#Featured" },
-    "6": { "label": "Press", "href": "/#Presse" },
-    "7": { "label": "Contact", "href": "/kontakt" }
+    "1": { "label": "Special Offer", "href": "/#SommerSpecial" },
+    "2": { "label": "Philosophy", "href": "/#About" },
+    "3": { "label": "About Me", "href": "/#UberMich" },
+    "4": { "label": "Pillars", "href": "/#Flow" },
+    "5": { "label": "FAQ", "href": "/#FAQ" },
+    "6": { "label": "Featured", "href": "/#Featured" },
+    "7": { "label": "Press", "href": "/#Presse" },
+    "8": { "label": "Contact", "href": "/kontakt" }
   },
   "mobileOnlyLinks": {
     "0": { "label": "Blog", "href": "/#Blog" },
